@@ -21,6 +21,19 @@ export const ColumnsInside = styled.div`
   width: 120%;
   height: 100%;
 `
+
+export const ColumnOne = styled.div`
+  background: green;
+  width: 100%;
+  height: 40%;
+`
+export const ColumnTwo = styled.div`
+  background: orange;
+  padding-top: 50px;
+  width: 100%;
+  height: 50%;
+`
+
 export const ColumnsInsideTwo = styled.div`
   background: yellow;
   width: 50%;

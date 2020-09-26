@@ -11,7 +11,10 @@ function Home() {
           <S.Main></S.Main>
           <S.Main style={{ background: 'gray' }}></S.Main>
         </S.ColumnsInside>
-        <S.ColumnsInsideTwo></S.ColumnsInsideTwo>
+        <S.ColumnsInsideTwo>
+          <S.ColumnOne>asfd</S.ColumnOne>
+          <S.ColumnTwo>asfd</S.ColumnTwo>
+        </S.ColumnsInsideTwo>
       </S.Columns>
     </S.Container>
   )
